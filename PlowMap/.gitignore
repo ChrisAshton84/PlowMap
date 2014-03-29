@@ -1,2 +1,7 @@
+# gen and bin are re-created when cleaned & built
 /gen
 /bin
+
+# classpath and project are created when project is first imported
+.classpath
+.project
